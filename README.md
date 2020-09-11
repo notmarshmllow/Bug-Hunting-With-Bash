@@ -1,15 +1,17 @@
 # Bug-Hunting-With-Bash
 Cool One Liners at one place to make your recon and bug bounty skills better !
 
-Clone the Repository 
+**Clone the Repository**
+
 `git clone https://github.com/notmarshmllow/Bug-Hunting-With-Bash.git`
 
-Change file Permissions
+**Change file Permissions**
+
 `chmod +x *.sh`
 
 Please set path for some tools in the scripts before using them.
 
-How to use ?
+**How to use ?**
 
 Example :
 
