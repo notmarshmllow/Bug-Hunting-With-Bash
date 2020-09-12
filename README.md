@@ -1,6 +1,10 @@
 # Bug-Hunting-With-Bash
 Cool One Liners at one place to make your recon and bug bounty skills better !
 
+These one-liners are most useful when you are specifically focusing on one type of Vulnerability in a target.
+Every script enumerates Subdomains according to it's convience and gives you the best results.
+
+
 **Clone the Repository**
 
 `git clone https://github.com/notmarshmllow/Bug-Hunting-With-Bash.git`
