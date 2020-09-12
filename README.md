@@ -24,10 +24,11 @@ Example :
 
 **Requirements**
 
-Following tools are required to use the script :
+Following tools are required to use the scripts :
+
 
 `Sublist3r , Assetfinder , Subfinder , waybackurls , gau , gf , nuclei , LinkFinder , SecretFinder , Oralyzer`
-
+Please set the path for following tools in the scripts - Sublist3r , LinkFinder , SecretFinder and Oralyzer.
 
 Feel free to submit your one-liners / scripts for making Reconnaissance better.
 
