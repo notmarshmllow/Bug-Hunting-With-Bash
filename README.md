@@ -15,11 +15,18 @@ Every script enumerates Subdomains according to it's convience and gives you the
 
 Please set path for some tools in the scripts before using them.
 
-**How to use ?**
+**Usage**
 
 Example :
 
 ```./recon_web_app_tes_basic.sh example.com```
+
+
+**Requirements**
+
+Following tools are required to use the script :
+
+`Sublist3r , Assetfinder , Subfinder , waybackurls , gau , gf , nuclei , LinkFinder , SecretFinder , Oralyzer`
 
 
 Feel free to submit your one-liners / scripts for making Reconnaissance better.
